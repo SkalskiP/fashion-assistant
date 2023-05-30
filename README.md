@@ -9,22 +9,25 @@
 
 ## 👋 hello
 
-This project aims to show how to combine the power of computer vision model and LLMs. Keep in mind that the project is still under 🚧 construction.
+Our idea is to combine the power of computer vision model and LLMs.
 
-![download - 2023-05-29T234500 853](https://github.com/SkalskiP/fashion-assistant/assets/26109316/ff33683e-055c-4e61-a38c-69f235345796)
-![download - 2023-05-29T234432 846](https://github.com/SkalskiP/fashion-assistant/assets/26109316/711e1b25-e2df-4e39-956f-4ded09e4b8f0)
+![fashion-assistant-diagram](https://github.com/SkalskiP/fashion-assistant/assets/26109316/2b52802a-ce55-4a60-9a7e-421463e6a9e9)
 
-## 🎯 roadmap
+## 🎯 goals
 
-- [x] build instance segmentation [dataset](https://universe.roboflow.com/roboflow-jvuqo/fashion-assistant-segmentation)
-- [x] train instance segmentation model
-- [x] isolate the leading clothing color
-- [ ] classify clothing style - sport / casual / official / etc.
-- [ ] build Gradio UI that allows for interaction with fashion assistant
-- [ ] enable advanced functionalities like online shopping
+Keep in mind that the project is still under 🚧 construction. We will successively publish updates and new features. Follow me on [Twitter](https://twitter.com/skalskip92) to stay up to date.
+
+- [ ] Help me compose my outfit based on clothes from my closet.
+- [ ] Rate my outfit.
+- [ ] Help me search online for clothes that fit my style or for a special occasion.
+
+## 🖼️ image dataset
+
+You have a project idea and would like to use our data? No problem! Our data, just like codebase is open-source. Take a peek at our Roboflow [project](https://universe.roboflow.com/roboflow-jvuqo/fashion-assistant-segmentation) to access images and annotations.
 
 ## 🦸 contribution
 
-Do you want to help me? 
-- Leave a ⭐ - let GitHub know we're doing something cool here! 
-- Contribute images of your clothing to our [dataset](https://universe.roboflow.com/roboflow-jvuqo/fashion-assistant-segmentation).
+Do you want to help me?
+
+- Let GitHub know we're doing something cool here! - Leave a ⭐!
+- Contribute to our open-source [dataset](https://universe.roboflow.com/roboflow-jvuqo/fashion-assistant-segmentation).
